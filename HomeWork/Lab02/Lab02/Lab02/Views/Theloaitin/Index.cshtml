@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Tên thể loại</th>
+        <th></th>
+    </tr>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>
+                <!-- Hiển thị ID của đối tượng với -->
+                @item.IDLoai
+            </td>
+            <td>
+                @item.Tentheloai
+            </td>
+            <td>
+                <!--Thẻ html.Actionlink dùng link đến 1 trang khác-->
+                @Html.ActionLink("Sửa","Edit", new { id = item.IDLoai}) |
+                @Html.ActionLink("Chi Tiết", "Details", new { id = item.IDLoai})    |
+                @Html.ActionLink("Xoá", "Delete", new { id = item.IDLoai })
+            </td>
+        </tr>
+    }
+</table>
+@Html.ActionLink("Thêm mới", "Create", "TheLoaiTinTuc")
