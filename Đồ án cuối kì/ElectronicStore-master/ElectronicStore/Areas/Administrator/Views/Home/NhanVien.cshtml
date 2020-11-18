@@ -1,0 +1,117 @@
+﻿@using ElectronicStore.Models;
+@using PagedList.Mvc;
+@model PagedList.PagedList<ElectronicStore.Models.NhanVien>
+@{
+    ViewBag.Title = "Quản Lý Nhân Viên";
+    Layout = "~/Areas/Administrator/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header card-header-primary">
+                <h3 class="card-title">Danh sách nhân viên</h3>
+            </div>
+            <div class="card-body">
+                    <a class="btn btn-success" href="@Url.Action("ThemMoiNV")">
+                        Tạo mới nhân viên
+                    </a>               
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead class=" text-primary">
+                            <tr>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.First().Username)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.First().Email)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.First().HoTen)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.First().NgaySinh)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.First().GioiTinh)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.First().DiaChi)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.First().DienThoai)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.First().MaCV)
+                                </th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Username)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Email)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.HoTen)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.NgaySinh)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.GioiTinh)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.DiaChi)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.DienThoai)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.MaCV)
+                                    </td>
+                                    <td class="td-actions text-right">
+                                        <a href="@Url.Action("ChiTietNV", new { id = item.MaNV })" rel="tooltip" data-placement="left" title="Chi tiết" class="btn btn-info btn-simple">
+                                            <i class="material-icons">description</i>
+                                        </a>
+                                        <a href="@Url.Action("SuaNV", new { id = item.MaNV })" rel="tooltip" data-placement="left" title="Sửa" class="btn btn-success btn-simple">
+                                            <i class="material-icons">edit</i>
+                                        </a>
+                                        <a href="@Url.Action("XoaNV", new { id = item.MaNV })" rel="tooltip" data-placement="left" title="Xóa" class="btn btn-danger btn-simple">
+                                            <i class="material-icons">close</i>
+                                        </a>                                        
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount
+                    <div class="MenuTrang">
+                        @Html.PagedListPager(Model, page => Url.Action("NhanVien", new { page = page }))
+                    </div>
+                    <style>
+                        .MenuTrang ul {
+                            margin: 0 auto;
+                        }
+
+                        .MenuTrang li {
+                            display: inline;
+                            padding: 4px;
+                            border: 1px solid #d46cbe;
+                            margin: 2px;
+                        }
+
+                            .MenuTrang li:hover {
+                                background-color: purple;
+                                color: white;
+                            }
+                    </style>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

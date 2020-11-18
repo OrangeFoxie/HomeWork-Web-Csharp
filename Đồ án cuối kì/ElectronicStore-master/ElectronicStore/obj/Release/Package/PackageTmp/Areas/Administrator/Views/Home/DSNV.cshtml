@@ -1,0 +1,88 @@
+﻿@model ElectronicStore.Models.NhanVien
+
+@{
+    ViewBag.Title = "DSNV";
+    Layout = "~/Areas/Administrator/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header card-header-primary">
+                <h3 class="card-title">Nhân viên</h3>
+                <p class="card-subtitle">@Html.DisplayNameFor(model => model.MaNV): @Html.DisplayFor(model => model.MaNV)</p>
+            </div>
+            <div class="card-body">
+
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Username)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Username)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Email)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Email)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.HoTen)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.HoTen)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.NgaySinh)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.NgaySinh)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.GioiTinh)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.GioiTinh)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.DiaChi)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.DiaChi)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.DienThoai)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.DienThoai)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.MaCV)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.MaCV)
+                    </dd>
+
+                </dl>
+                <a class="btn btn-success" href="@Url.Action("Edit",new { id = Model.MaNV })">Sửa</a>
+                <a class="btn btn-outline-primary" href="javascript: window.history.back()">Quay lại</a>
+            </div>
+        </div>
+    </div>
+</div>

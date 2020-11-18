@@ -1,0 +1,37 @@
+﻿@model ElectronicStore.Models.THUONGHIEU
+
+@{
+    ViewBag.Title = "SuaTH";
+    Layout = "~/Areas/Administrator/Views/Shared/_Layout.cshtml";
+}
+
+<h2>SuaTH</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>THUONGHIEU</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.MATH)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TENTH, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.TENTH, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.TENTH, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+                <a href="@Url.Action("ThuongHieu", new { id = Model.MATH })" rel="tooltip" data-placement="left" title="Back To List" class="btn btn-success btn-simple">
+                    <i class="fa fa-sign-out"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+}

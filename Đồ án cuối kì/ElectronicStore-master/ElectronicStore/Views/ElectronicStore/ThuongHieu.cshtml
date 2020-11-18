@@ -1,0 +1,9 @@
+﻿@model IEnumerable<ElectronicStore.Models.THUONGHIEU>
+@foreach (var item in Model)
+{
+    <li>
+        <a href="@Url.Action("SpTheoThuongHieu","ElectronicStore" , new {id = item.MATH})" class="active">
+            @item.TENTH
+        </a>
+    </li>
+}

@@ -1,0 +1,83 @@
+﻿@model ElectronicStore.Models.SP
+
+@{
+    ViewBag.Title = "XoaSP";
+    Layout = "~/Areas/Administrator/Views/Shared/_Layout.cshtml";
+}
+<div style="color:Red">
+    <h2>XÁC NHẬN THÔNG TIN SẢN PHẨM CẦN XÓA</h2>
+
+    <h3>Are you sure you want to delete this?</h3>
+</div>
+<hr />
+<dl class="dl-horizontal" style="color:white">
+    <dt>
+        @Html.DisplayNameFor(model => model.TenSP)
+    </dt>
+
+    <dd>
+        @Html.DisplayFor(model => model.TenSP)
+    </dd>
+
+    <dt>
+        @Html.DisplayNameFor(model => model.GiaBan)
+    </dt>
+
+    <dd>
+        @Html.DisplayFor(model => model.GiaBan)
+    </dd>
+
+    <dt>
+        @Html.DisplayNameFor(model => model.MoTa)
+    </dt>
+
+    <dd>
+        @Html.DisplayFor(model => model.MoTa)
+    </dd>
+
+    <dt>
+        @Html.DisplayNameFor(model => model.NgayCapNhat)
+    </dt>
+
+    <dd>
+        @Html.DisplayFor(model => model.NgayCapNhat)
+    </dd>
+
+    <dt>
+        Hình
+    </dt>
+
+    <dd>
+        <img src="@Url.Content("~/Images/"+ Model.HinhSP)" style="width:120px" />
+    </dd>
+
+    <dt>
+        @Html.DisplayNameFor(model => model.SLTon)
+    </dt>
+
+    <dd>
+        @Html.DisplayFor(model => model.SLTon)
+    </dd>
+
+    <dt>
+        @Html.DisplayNameFor(model => model.MATH)
+    </dt>
+
+    <dd>
+        @Html.DisplayFor(model => model.MATH)
+    </dd>
+
+</dl>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-actions no-color">
+    <input type="submit" value="Delete" class="btn btn-default" /> |
+    <a href="@Url.Action("SanPham", new { id = Model.MaSP })" rel="tooltip" data-placement="left" title="Back To List" class="btn btn-success btn-simple">
+        <i class="fa fa-sign-out"></i>
+    </a>
+</div>
+    
+}

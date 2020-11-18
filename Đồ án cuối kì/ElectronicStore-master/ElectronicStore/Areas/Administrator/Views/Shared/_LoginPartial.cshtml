@@ -1,0 +1,17 @@
+﻿@{
+    var account = Request.Cookies["AdminAccount"];
+}
+@if (account == null)
+{
+    <a class="dropdown-item" href="@Url.Action("SignIn","Account",new { returnUrl = Context.Request.Url.PathAndQuery})">Đăng nhập</a>
+    <a class="dropdown-item" href="#">Cài đặt</a>
+}
+else
+{
+    <a class="dropdown-item" href="#">Thông tin - @account["Username"]</a>
+    <a class="dropdown-item" href="#">Cài đặt</a>
+    <div class="dropdown-divider"></div>
+    <a class="dropdown-item" href="@Url.Action("SignOut","Account")">Log out</a>
+}
+
+

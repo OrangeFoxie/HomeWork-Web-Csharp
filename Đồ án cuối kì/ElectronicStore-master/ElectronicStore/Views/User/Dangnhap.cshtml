@@ -1,0 +1,37 @@
+﻿@model ElectronicStore.Models.KHACHHANG
+
+@{
+    ViewBag.Title = "Dangnhap";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h4 style="color:red;text-align:center">@ViewBag.ThongBao</h4>
+<table align="center">
+    <h3 style="text-align:center" > Đăng Nhập </h3>
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true)
+        <tr style="height:40px">
+            <td>Tên đăng nhập:</td>
+            <td>
+                @Html.TextBox("TenDN")
+                @ViewData["loi1"]
+            </td>
+        </tr>
+        <tr style="height:40px">
+            <td align="left">Mật khẩu :</td>
+            <td>
+                @Html.Password("Matkhau")
+                @ViewData["loi2"]
+            </td>
+        </tr>
+        <tr style="height:40px">
+            <td></td>
+            <td>
+                
+                <input type="submit" value="Đăng Nhập" class="btn btn-danger"/>
+                @Html.ActionLink(" Đăng Ký Tài Khoản", "Dangky")
+            </td>
+        </tr>
+    }
+</table>

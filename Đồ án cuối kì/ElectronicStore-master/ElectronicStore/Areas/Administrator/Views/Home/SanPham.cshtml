@@ -1,0 +1,123 @@
+﻿@using ElectronicStore.Models
+@using PagedList.Mvc;
+@model PagedList.PagedList<ElectronicStore.Models.SP>
+@{
+    ViewBag.Title = "Danh Sách Sản Phẩm";
+    Layout = "~/Areas/Administrator/Views/Shared/_Layout.cshtml";
+}
+@helper Truncate(string input, int length)
+{ 
+    if (input.Length < length)
+    {
+        @input
+}
+    else
+    {
+        @input.Substring(0,length)<text>.....</text>
+    }
+}
+<h2>Danh Sách Sản Phẩm</h2>
+<div class="row">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header card-header-primary">
+                <h3 class="card-title">Danh sách sản phẩm</h3>
+            </div>
+            <div class="card-body">
+                <a class="btn btn-success" href="@Url.Action("ThemMoiSP","Home")">
+                    Tạo mới sản phẩm
+                </a>
+                <div class="table-responsive">
+                    <table class="table" >
+                        <thead class=" text-primary">
+                            <tr>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.First().TenSP)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.First().GiaBan)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.First().MoTa)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.First().NgayCapNhat)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.First().HinhSP)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.First().SLTon)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.First().MATH)
+                                </th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.TenSP)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.GiaBan)
+                                    </td>
+                                    <td>
+                                        @Truncate(item.MoTa,250)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.NgayCapNhat)
+                                    </td>
+                                    <td>
+                                        <img src="@Url.Content("~/Images/"+ item.HinhSP)" style="width:120px" />
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.SLTon)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.MATH)
+                                    </td>
+                                    <td class="td-actions text-right">
+                                        <a href="@Url.Action("Details", new { id = item.MaSP })" rel="tooltip" data-placement="left" title="Chi tiết" class="btn btn-info btn-simple">
+                                            <i class="material-icons">description</i>
+                                        </a>
+                                        <a href="@Url.Action("SuaSP", new { id = item.MaSP })" rel="tooltip" data-placement="left" title="Sửa" class="btn btn-success btn-simple">
+                                            <i class="material-icons">edit</i>
+                                        </a>
+                                        <a href="@Url.Action("XoaSP", new { id = item.MaSP })" rel="tooltip" data-placement="left" title="Xóa" class="btn btn-danger btn-simple">
+                                            <i class="material-icons">close</i>
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount
+                    <div class="MenuTrang">
+                        @Html.PagedListPager(Model, page => Url.Action("SanPham", new { page = page }))
+                    </div>
+                    <style>
+                        .MenuTrang ul {
+                            margin: 0 auto;
+                        }
+
+                        .MenuTrang li {
+                            display: inline;
+                            padding: 4px;
+                            border: 1px solid #d46cbe;
+                            margin: 2px;
+                        }
+
+                            .MenuTrang li:hover {
+                                background-color: purple;
+                                color: white;
+                            }
+                    </style>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

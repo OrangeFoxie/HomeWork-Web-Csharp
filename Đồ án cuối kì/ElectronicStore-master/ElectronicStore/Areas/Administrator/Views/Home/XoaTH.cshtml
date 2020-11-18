@@ -1,0 +1,35 @@
+﻿@model ElectronicStore.Models.THUONGHIEU
+
+@{
+    ViewBag.Title = "XoaTH";
+    Layout = "~/Areas/Administrator/Views/Shared/_Layout.cshtml";
+}
+
+<h2>XoaTH</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>THUONGHIEU</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TENTH)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TENTH)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            <a href="@Url.Action("ThuongHieu", new { id = Model.MATH })" rel="tooltip" data-placement="left" title="Back To List" class="btn btn-success btn-simple">
+                <i class="fa fa-sign-out"></i>
+            </a>
+        </div>
+    }
+</div>

@@ -1,0 +1,19 @@
+﻿@{
+    var s = Session["GioHang"];
+}
+@if (s is List<ElectronicStore.Models.GioHang> cart)
+{
+    <a href="@Url.Action("GioHang", "GioHang")">
+        <i class="fa fa-shopping-cart"></i>
+        <span>Your Cart</span>
+        <div class="qty">@cart.Count</div>
+    </a>
+}
+else
+{
+    <a href="@Url.Action("GioHang", "GioHang")">
+        <i class="fa fa-shopping-cart"></i>
+        <span>Your Cart</span>
+        <div class="qty">0</div>
+    </a>
+}

@@ -1,0 +1,72 @@
+﻿@model ElectronicStore.Models.SP
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Administrator/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+<div style="color:white">
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TenSP)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenSP)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GiaBan)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GiaBan)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MoTa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MoTa)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NgayCapNhat)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NgayCapNhat)
+        </dd>
+        <dt>Hình</dt>
+        <dd>
+            <img src="@Url.Content("~/Images/"+ Model.HinhSP)" style="width:120px" />
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.SLTon)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SLTon)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MATH)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MATH)
+        </dd>
+
+    </dl>
+</div>
+<p>
+        <a href="@Url.Action("Edit", new { id = Model.MaSP })" rel="tooltip" data-placement="left" title="Sửa" class="btn btn-success btn-simple">
+            <i class="material-icons">edit</i>
+        </a>
+        <a href="@Url.Action("SanPham", new { id = Model.MaSP })" rel="tooltip" data-placement="left" title="Back To List" class="btn btn-success btn-simple">
+            <i class="fa fa-sign-out"></i>
+        </a>
+</p>
