@@ -1,0 +1,7 @@
+Pass admin:
+phuc
+1
+
+Pass user mua hàng:
+Phucv1998
+Phucv1998
