@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="dbQLKhachHang">
+  <DataContextMoniker Name="/dbQLKhachHangDataContext" />
+  <nestedChildShapes>
+    <classShape Id="0398b493-f8b3-4451-a228-62642003614a" absoluteBounds="3.5, 0.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/dbQLKhachHangDataContext/Khachhang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c711ddd8-544a-44e8-8c08-017d3a364e54" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="50c97afd-fbb2-4412-b4d1-246cca2a151b" absoluteBounds="0.75, 1.125, 2, 1.1939925130208338">
+      <DataClassMoniker Name="/dbQLKhachHangDataContext/Khuvuc" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5ce20fdd-026d-415c-8a7f-565bbfaa5145" absoluteBounds="0.765, 1.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.72199625651042); (3.5 : 1.72199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbQLKhachHangDataContext/Khuvuc/Khuvuc_Khachhang" />
+      <nodes>
+        <classShapeMoniker Id="50c97afd-fbb2-4412-b4d1-246cca2a151b" />
+        <classShapeMoniker Id="0398b493-f8b3-4451-a228-62642003614a" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

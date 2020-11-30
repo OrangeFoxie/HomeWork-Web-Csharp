@@ -1,0 +1,294 @@
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\MvcBookStore.dll.config
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\MvcBookStore.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\MvcBookStore.pdb
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Antlr3.Runtime.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\EntityFramework.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\EntityFramework.SqlServer.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.Owin.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.Owin.Security.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.Owin.Security.Google.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.Web.Infrastructure.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Newtonsoft.Json.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Owin.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\System.Web.Helpers.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\System.Web.Mvc.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\System.Web.Optimization.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\System.Web.Razor.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\System.Web.WebPages.Deployment.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\System.Web.WebPages.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\System.Web.WebPages.Razor.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\WebGrease.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\System.Web.Helpers.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\System.Web.Mvc.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\System.Web.Optimization.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\System.Web.Razor.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\System.Web.WebPages.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\System.Web.WebPages.Deployment.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\System.Web.WebPages.Razor.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Newtonsoft.Json.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Antlr3.Runtime.pdb
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\EntityFramework.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\EntityFramework.SqlServer.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.Owin.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.Owin.Security.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.Owin.Security.Google.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\obj\Debug\MvcBookStore.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\obj\Debug\MvcBookStore.pdb
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\PagedList.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\PagedList.Mvc.dll
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\PagedList.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\bin\PagedList.Mvc.xml
+D:\MinhoaMVC\WebBansach\MvcBookStore\obj\Debug\MvcBookStore.csprojResolveAssemblyReference.cache
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\obj\Debug\MvcBookStore.csprojResolveAssemblyReference.cache
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\obj\Debug\MvcBookStore.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\obj\Debug\MvcBookStore.pdb
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\MvcBookStore.dll.config
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\MvcBookStore.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\MvcBookStore.pdb
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Antlr3.Runtime.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\EntityFramework.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\EntityFramework.SqlServer.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.Owin.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.Owin.Security.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.Owin.Security.Google.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.Web.Infrastructure.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Newtonsoft.Json.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Owin.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\PagedList.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\PagedList.Mvc.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\System.Web.Helpers.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\System.Web.Mvc.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\System.Web.Optimization.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\System.Web.Razor.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\System.Web.WebPages.Deployment.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\System.Web.WebPages.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\System.Web.WebPages.Razor.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\WebGrease.dll
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\PagedList.xml
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\PagedList.Mvc.xml
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\System.Web.Helpers.xml
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\System.Web.Mvc.xml
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\System.Web.Optimization.xml
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\System.Web.Razor.xml
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\System.Web.WebPages.xml
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\System.Web.WebPages.Deployment.xml
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\System.Web.WebPages.Razor.xml
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Newtonsoft.Json.xml
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Antlr3.Runtime.pdb
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\EntityFramework.xml
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\EntityFramework.SqlServer.xml
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.Owin.xml
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.Owin.Security.xml
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.Owin.Security.Google.xml
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TruongHutech\KhoaCNTT\GIANGDAY\MonLaptrinhWeb\LabThuchanh\LabNangcao\Lab09\End\MvcBookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\MvcBookStore.dll.config
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\MvcBookStore.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\MvcBookStore.pdb
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Antlr3.Runtime.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\EntityFramework.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.Owin.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Owin.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\PagedList.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\PagedList.Mvc.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\System.Web.Helpers.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\System.Web.Mvc.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\System.Web.Optimization.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\System.Web.Razor.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\System.Web.WebPages.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\WebGrease.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\PagedList.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\PagedList.Mvc.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\System.Web.Helpers.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\System.Web.Mvc.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\System.Web.Optimization.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\System.Web.Razor.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\System.Web.WebPages.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Newtonsoft.Json.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\EntityFramework.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.Owin.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\obj\Debug\MvcBookStore.dll
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\obj\Debug\MvcBookStore.pdb
+C:\Users\Admin\OneDrive\Máy tính\EndLab09\MvcBookStore\obj\Debug\MvcBookStore.csprojResolveAssemblyReference.cache
+E:\EndLab09\MvcBookStore\bin\MvcBookStore.dll.config
+E:\EndLab09\MvcBookStore\bin\MvcBookStore.dll
+E:\EndLab09\MvcBookStore\bin\MvcBookStore.pdb
+E:\EndLab09\MvcBookStore\bin\Antlr3.Runtime.dll
+E:\EndLab09\MvcBookStore\bin\EntityFramework.dll
+E:\EndLab09\MvcBookStore\bin\EntityFramework.SqlServer.dll
+E:\EndLab09\MvcBookStore\bin\Microsoft.AspNet.Identity.Core.dll
+E:\EndLab09\MvcBookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\EndLab09\MvcBookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\EndLab09\MvcBookStore\bin\Microsoft.Owin.dll
+E:\EndLab09\MvcBookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Cookies.dll
+E:\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.dll
+E:\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Facebook.dll
+E:\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Google.dll
+E:\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.OAuth.dll
+E:\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Twitter.dll
+E:\EndLab09\MvcBookStore\bin\Microsoft.Web.Infrastructure.dll
+E:\EndLab09\MvcBookStore\bin\Newtonsoft.Json.dll
+E:\EndLab09\MvcBookStore\bin\Owin.dll
+E:\EndLab09\MvcBookStore\bin\PagedList.dll
+E:\EndLab09\MvcBookStore\bin\PagedList.Mvc.dll
+E:\EndLab09\MvcBookStore\bin\System.Web.Helpers.dll
+E:\EndLab09\MvcBookStore\bin\System.Web.Mvc.dll
+E:\EndLab09\MvcBookStore\bin\System.Web.Optimization.dll
+E:\EndLab09\MvcBookStore\bin\System.Web.Razor.dll
+E:\EndLab09\MvcBookStore\bin\System.Web.WebPages.Deployment.dll
+E:\EndLab09\MvcBookStore\bin\System.Web.WebPages.dll
+E:\EndLab09\MvcBookStore\bin\System.Web.WebPages.Razor.dll
+E:\EndLab09\MvcBookStore\bin\WebGrease.dll
+E:\EndLab09\MvcBookStore\bin\PagedList.xml
+E:\EndLab09\MvcBookStore\bin\PagedList.Mvc.xml
+E:\EndLab09\MvcBookStore\bin\System.Web.Helpers.xml
+E:\EndLab09\MvcBookStore\bin\System.Web.Mvc.xml
+E:\EndLab09\MvcBookStore\bin\System.Web.Optimization.xml
+E:\EndLab09\MvcBookStore\bin\System.Web.Razor.xml
+E:\EndLab09\MvcBookStore\bin\System.Web.WebPages.xml
+E:\EndLab09\MvcBookStore\bin\System.Web.WebPages.Deployment.xml
+E:\EndLab09\MvcBookStore\bin\System.Web.WebPages.Razor.xml
+E:\EndLab09\MvcBookStore\bin\Newtonsoft.Json.xml
+E:\EndLab09\MvcBookStore\bin\Antlr3.Runtime.pdb
+E:\EndLab09\MvcBookStore\bin\EntityFramework.xml
+E:\EndLab09\MvcBookStore\bin\EntityFramework.SqlServer.xml
+E:\EndLab09\MvcBookStore\bin\Microsoft.AspNet.Identity.Core.xml
+E:\EndLab09\MvcBookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\EndLab09\MvcBookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\EndLab09\MvcBookStore\bin\Microsoft.Owin.xml
+E:\EndLab09\MvcBookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.xml
+E:\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Facebook.xml
+E:\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Cookies.xml
+E:\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.OAuth.xml
+E:\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Google.xml
+E:\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Twitter.xml
+E:\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\EndLab09\MvcBookStore\obj\Debug\MvcBookStore.dll
+E:\EndLab09\MvcBookStore\obj\Debug\MvcBookStore.pdb
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\MvcBookStore.dll.config
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\MvcBookStore.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\MvcBookStore.pdb
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Antlr3.Runtime.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\EntityFramework.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\EntityFramework.SqlServer.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.AspNet.Identity.Core.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.Owin.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Cookies.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Facebook.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Google.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.OAuth.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Twitter.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.Web.Infrastructure.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Newtonsoft.Json.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Owin.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\PagedList.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\PagedList.Mvc.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\System.Web.Helpers.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\System.Web.Mvc.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\System.Web.Optimization.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\System.Web.Razor.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\System.Web.WebPages.Deployment.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\System.Web.WebPages.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\System.Web.WebPages.Razor.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\WebGrease.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\PagedList.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\PagedList.Mvc.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\System.Web.Helpers.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\System.Web.Mvc.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\System.Web.Optimization.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\System.Web.Razor.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\System.Web.WebPages.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\System.Web.WebPages.Deployment.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\System.Web.WebPages.Razor.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Newtonsoft.Json.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Antlr3.Runtime.pdb
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\EntityFramework.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\EntityFramework.SqlServer.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.AspNet.Identity.Core.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.Owin.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Facebook.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Cookies.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.OAuth.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Google.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.Twitter.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\LAB thuc hanh\EndLab09\MvcBookStore\obj\Debug\MvcBookStore.csprojResolveAssemblyReference.cache
+E:\LAB thuc hanh\EndLab09\MvcBookStore\obj\Debug\MvcBookStore.dll
+E:\LAB thuc hanh\EndLab09\MvcBookStore\obj\Debug\MvcBookStore.pdb

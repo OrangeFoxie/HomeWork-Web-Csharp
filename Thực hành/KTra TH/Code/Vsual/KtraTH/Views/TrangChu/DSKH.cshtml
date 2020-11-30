@@ -1,0 +1,57 @@
+﻿@model IEnumerable<KtraTH.Models.Khachhang>
+
+@{
+    ViewBag.Title = "DSKH";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<div class="container-fluid">
+    <h2 class="text-center">DANH SÁCH KHÁCH HÀNG</h2>
+
+    <p>
+        @Html.ActionLink("Tạo mới khách hàng", "ThemmoiKH")
+    </p>
+
+    <table class="table">
+        <tr>
+            <th>
+                Tên KH
+            </th>
+            <th>
+                Mã KH
+            </th>
+            <th>
+                Khu vực
+            </th>
+            <th>
+                Năm sinh
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TenKH)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaKH)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaKV)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Namsinh)
+                </td>
+                <td>
+                    @Html.ActionLink("Xem", "ChitietKH", new { id=item.MaKH  }) |
+                    @Html.ActionLink("Sửa", "SuaKH", new {  id=item.MaKH }) |
+                    @Html.ActionLink("Xoá", "XoaKH", new {  id=item.MaKH  })
+                </td>
+            </tr>
+        }
+    </table>
+
+    <button type="button" class="btn btn-primary">Tạo Mới</button>
+</div>

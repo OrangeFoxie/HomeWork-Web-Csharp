@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="KtraTH" Class="dbQLKhachHangDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=CAMEO\SQLEXPRESS;Initial Catalog=KtraTH;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="KtraTHConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Khachhang" Member="Khachhangs">
+    <Type Name="Khachhang">
+      <Column Name="MaKH" Type="System.String" DbType="Char(4) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaKV" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenKH" Type="System.String" DbType="NChar(40)" CanBeNull="true" />
+      <Column Name="Namsinh" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Khuvuc_Khachhang" Member="Khuvuc" ThisKey="MaKV" OtherKey="MaKV" Type="Khuvuc" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Khuvuc" Member="Khuvucs">
+    <Type Name="Khuvuc">
+      <Column Name="MaKV" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenKV" Type="System.String" DbType="NChar(30)" CanBeNull="true" />
+      <Association Name="Khuvuc_Khachhang" Member="Khachhangs" ThisKey="MaKV" OtherKey="MaKV" Type="Khachhang" />
+    </Type>
+  </Table>
+</Database>
